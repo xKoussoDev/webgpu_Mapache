@@ -83,12 +83,15 @@ Make sure you use a WebGPU-compatible browser.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 Pablo Cisneros  
 Artificial Intelligence Engineering Student  
+GitHub: https://github.com/xKoussoDev
 
-GitHub: https://github.com/youruser  
+Esteban Reyna
+Artificial Intelligence Engineering Student  
+GitHub: https://github.com/esteban2005228  
 
 ---
 
