@@ -2,9 +2,13 @@
 Prerequisites:
 
 Node.js installed (LTS recommended).
+
 VS Code installed.
+
 WebGPU-capable browser (Chrome/Edge latest).
+
 "WebGPU" VS Code extension (optional but helpful for WGSL highlighting).
+
 Part 1: Scaffolding the Project (Terminal)
 Open VS Code.
 Open the Integrated Terminal (Ctrl + `).
